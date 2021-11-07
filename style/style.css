@@ -1,0 +1,67 @@
+h1, 
+h2 {
+    background-color: rgb(248, 204, 165); 
+    width: 50px;
+    height: 110px;
+    font-family: serif;
+}
+
+h3,
+.poem,
+.dish {
+    text-align: center;
+}
+
+body {
+    font-family: Helvetica sans-serif;
+    background-color: rgb(250, 129, 49);
+}
+
+div {
+    text-align: center;
+    margin: 10px;
+}
+
+p {
+    size: 120%;
+    text-align: center;
+}
+
+img {
+    outline-color:papayawhip;
+    outline-style:double;
+    outline-width: 8px;
+    outline-offset: 5px;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    margin: 10px;
+}
+
+.dish {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    background-color: transparent;
+    width: auto;
+    height: auto;
+    margin-top: 80px;
+}
+
+.subheading {
+    margin: -20px 0px 0px 0px;
+    text-align: left;
+}
+
+.poem {
+    font-family: serif;
+    font-size: 115%;
+}
+
+.dish.subheading {
+    text-align: center;
+}
